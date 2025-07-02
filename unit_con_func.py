@@ -1,5 +1,3 @@
-from calendar import c
-
 
 def main():
     print('welcome to the unit converter program')
